@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_start"
+        app:showAsAction="always"
+        android:icon="@drawable/bino_small"
+        android:title="Stop Tracking"/>
+
+    <item
+        android:id="@+id/date_selection"
+        app:showAsAction="always"
+        android:title="Date" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/refresh"
+        app:showAsAction="never"
+        android:title="Refresh" />
+
+    <item
+        android:id="@+id/action_tutorial"
+        android:title="Enable tutorial"/>
+    <item
+        android:id="@+id/action_freq"
+        android:orderInCategory="100"
+        android:title="Set GPS Frequency" />
+
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        android:title="Delete File" />
+
+
+
+</menu>
+

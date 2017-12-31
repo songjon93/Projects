@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">iStalkU</string>
+    <string name="title_menu">Home</string>
+    <string name="title_statistics">Statistics</string>
+    <string name="title_time_machine">Time Machine</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="gpq_freq">
+        <item>30 seconds</item>
+        <item>1 minute</item>
+        <item>10 minute</item>
+        <item>30 minute</item>
+        <item>1 hour</item>
+    </string-array>
+
+</resources>
