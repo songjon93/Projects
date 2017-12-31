@@ -1,0 +1,31 @@
+To quit the program, type return in answer to a question
+Enter the name of an actor: 
+Nicholas Cage
+Nicholas Cage's Bacon Number is: 2
+Nicholas Cage appeared in Adaptation (2002) with Meryl Streep
+Meryl Streep appeared in River Wild, The (1994) with Kevin Bacon
+Enter the name of an actor: 
+Jennifer Aniston
+Jennifer Aniston's Bacon Number is: 1
+Jennifer Aniston appeared in Picture Perfect (1997) with Kevin Bacon
+Enter the name of an actor: 
+Tom Cruise
+Tom Cruise's Bacon Number is: 1
+Tom Cruise appeared in Few Good Men, A (1992) with Kevin Bacon
+Enter the name of an actor: 
+Tim Allen
+Tim Allen's Bacon Number is: 2
+Tim Allen appeared in Toy Story (1995) with Tom Hanks
+Tom Hanks appeared in Apollo 13 (1995) with Kevin Bacon
+Enter the name of an actor: 
+Scarlett Johansson
+Scarlett Johansson's Bacon Number is: 3
+Scarlett Johansson appeared in Eight Legged Freaks (2002) with Kari Wuhrer
+Kari Wuhrer appeared in Sex & the Other Man (1996) with Ron Eldard
+Ron Eldard appeared in Sleepers (1996) with Kevin Bacon
+Enter the name of an actor: 
+Psy
+Psy is not in our database.
+Enter the name of an actor: 
+return
+Thanks for playing

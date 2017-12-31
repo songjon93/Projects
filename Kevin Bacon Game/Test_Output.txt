@@ -1,0 +1,37 @@
+﻿To quit the program, type return in answer to a question
+Enter the name of an actor: 
+Kevin Bacon
+Kevin Bacon's Bacon Number is: 0
+Enter the name of an actor: 
+actor 1
+actor 1's Bacon Number is: 1
+actor 1 appeared in movie 1 with Kevin Bacon
+Enter the name of an actor: 
+actor 2
+actor 2's Bacon Number is: 1
+actor 2 appeared in movie 1 with Kevin Bacon
+Enter the name of an actor: 
+actor 3
+actor 3's Bacon Number is: 2
+actor 3 appeared in movie 2 with actor 1
+actor 1 appeared in movie 1 with Kevin Bacon
+Enter the name of an actor: 
+actor 4
+actor 4's Bacon Number is: 3
+actor 4 appeared in movie 4 with actor 3
+actor 3 appeared in movie 2 with actor 1
+actor 1 appeared in movie 1 with Kevin Bacon
+Enter the name of an actor: 
+actor 5
+actor 5 has no linkage to Kevin Bacon.
+Therefore, actor 5's Bacon Number is infinite.
+Enter the name of an actor: 
+actor 6
+actor 6 has no linkage to Kevin Bacon.
+Therefore, actor 6's Bacon Number is infinite.
+Enter the name of an actor: 
+actor 7
+actor 7 is not in our database.
+Enter the name of an actor: 
+return
+Thanks for playing
